@@ -1,7 +1,7 @@
-// Copyright 2020 Your Name <your_email>
+// Copyright 2020 kropachevskiy <kropachev-95@mail.ru>
 
 #include <gtest/gtest.h>
 
 TEST(Example, EmptyTest) {
-    EXPECT_TRUE(true);
+  EXPECT_TRUE(true);
 }
